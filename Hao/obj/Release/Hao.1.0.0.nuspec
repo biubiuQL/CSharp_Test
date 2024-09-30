@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hao</id>
+    <version>1.0.0</version>
+    <title>测试标题</title>
+    <authors>逆跌</authors>
+    <icon>test.jpeg</icon>
+    <description>这是一个测试nuget的包</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Google.Protobuf" version="3.28.2" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\admin\RiderProjects\SolutionTest\Hao\bin\Release\net8.0\Hao.dll" target="lib\net8.0\Hao.dll" />
+    <file src="C:\Users\admin\RiderProjects\SolutionTest\Hao\test.jpeg" target="test.jpeg" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+C:\Users\admin\RiderProjects\SolutionTest\Hao\bin\Debug\net8.0\Hao.deps.json
+C:\Users\admin\RiderProjects\SolutionTest\Hao\bin\Debug\net8.0\Hao.dll
+C:\Users\admin\RiderProjects\SolutionTest\Hao\bin\Debug\net8.0\Hao.pdb
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\Hao.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\Hao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\Hao.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\Hao.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\Hao.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\Hao.dll
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\refint\Hao.dll
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\Hao.pdb
+C:\Users\admin\RiderProjects\SolutionTest\Hao\obj\Debug\net8.0\ref\Hao.dll

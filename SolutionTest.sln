@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unity", "Unity", "{5C9E0366-25D5-4579-91BA-C1643FE71AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hao", "Hao\Hao.csproj", "{B53F01BD-FD2A-4CDE-A524-CB32CDD676F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ee", "ee\ee.csproj", "{7D46F816-2FBE-4272-9FBD-58254D6F9D20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B53F01BD-FD2A-4CDE-A524-CB32CDD676F4} = {5C9E0366-25D5-4579-91BA-C1643FE71AE3}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53F01BD-FD2A-4CDE-A524-CB32CDD676F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53F01BD-FD2A-4CDE-A524-CB32CDD676F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53F01BD-FD2A-4CDE-A524-CB32CDD676F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53F01BD-FD2A-4CDE-A524-CB32CDD676F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D46F816-2FBE-4272-9FBD-58254D6F9D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D46F816-2FBE-4272-9FBD-58254D6F9D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D46F816-2FBE-4272-9FBD-58254D6F9D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D46F816-2FBE-4272-9FBD-58254D6F9D20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
